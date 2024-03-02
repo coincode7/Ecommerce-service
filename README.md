@@ -1,4 +1,4 @@
-![[object Object]](https://socialify.git.ci/Shubhamdutta2000/eShop-ecommerce-site/image?description=1&font=Bitter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&stargazers=1&theme=Light)
+
 
 <br />
 
@@ -50,9 +50,6 @@
 
 <br />
 
-# Hero Section
-
-![screenshot](https://github.com/Shubhamdutta2000/eShop/blob/main/frontend/public/assets/images/screenshots/carousalAdmin2.PNG)
 
 
 ## Usage
